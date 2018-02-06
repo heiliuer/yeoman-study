@@ -1,0 +1,13 @@
+{
+  "name": "generator-vue-heiliuer",
+  "version": "0.0.1",
+  "dependencies": {
+    "yeoman-generator": "^1.1.1"
+  },
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ]
+}
